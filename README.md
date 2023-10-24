@@ -1,5 +1,25 @@
 # COMP3005Project
 
+*******************************************************
+Online Bookstore Application: Look Inna Book
+
+Overview: Developed a comprehensive e-commerce platform for an online bookstore, facilitating book browsing, purchasing, and administrative functionalities.
+
+Key Features:
+
+Advanced Search: Implemented a multi-criteria search mechanism allowing users to find books by name, author, ISBN, genre, etc.
+Detailed Book View: On book selection, provided in-depth details including author(s) information, genre, publisher, page count, and pricing.
+User-Centric Shopping Experience: Enabled a cart feature allowing users to add multiple books for checkout and streamline their shopping journey.
+User Registration & Authentication: Incorporated a secure user registration system to facilitate checkout processes.
+Checkout & Payment Integration: Enabled billing and shipping info input at checkout, integrated with an efficient order processing system.
+Order Tracking: Partnered with third-party shipping service but ensured real-time order tracking within the platform for a seamless user experience.
+Admin & Inventory Management: Equipped bookstore owners with tools to add or remove books, manage inventory levels, and maintain publisher information.
+Financial Features: Incorporated variable percentage calculations for publisher royalties and implemented an automated system for sales percentage transfers.
+Reporting Module: Developed an analytical dashboard for owners, showcasing insights on sales vs. expenditures, sales by genre, author, etc.
+Auto-replenishment System: Integrated an automated reordering mechanism triggered when book stock falls below a specified threshold, utilizing historical sales data to determine order quantity.
+Outcome: Successfully enhanced the online book shopping experience for users while providing bookstore owners with robust tools to manage and grow their business.
+*******************************************************
+
 This READMe is included within the repository for the Fall 2021 COMP 3005 Bookstore Project (Edward Akapo 101095403 &amp; Sarah Abdallah 101119716)
 
 Please note: The created user interface operate as intended when the display resolution
